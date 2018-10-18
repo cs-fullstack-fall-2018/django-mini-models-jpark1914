@@ -8,7 +8,7 @@ import django
 django.setup()
 
 import random
-from appTwo.models import User
+from apptwo.models import User
 from faker import Faker
 
 fakegen = Faker()
